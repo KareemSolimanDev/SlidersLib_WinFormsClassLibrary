@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidersLib", "SlidersLib\SlidersLib.csproj", "{5607D85A-92B6-4DBF-840A-06FC223A61CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SliderApp", "SliderApp\SliderApp.csproj", "{C5446958-8189-4B93-9756-54633B0FA33F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5607D85A-92B6-4DBF-840A-06FC223A61CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5607D85A-92B6-4DBF-840A-06FC223A61CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5607D85A-92B6-4DBF-840A-06FC223A61CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5607D85A-92B6-4DBF-840A-06FC223A61CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5446958-8189-4B93-9756-54633B0FA33F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5446958-8189-4B93-9756-54633B0FA33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5446958-8189-4B93-9756-54633B0FA33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5446958-8189-4B93-9756-54633B0FA33F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE6785CA-808A-42FA-A114-D7610DB2265F}
+	EndGlobalSection
+EndGlobal
